@@ -60,7 +60,11 @@ At least one author from each accepted paper must register for the workshop. Ple
 
 11:00 - 11:20   Paper talk 1
 
+<small>*Title: GANE: A Generative Adversarial Network Embedding*<small>
+
 11:20 - 11:40   Paper talk 2
+
+<small>*Title: Deep Learning with a Rethinking Structure for Multi-label Classification*<small>
 
 11:40 - 13:30   Lunch
 
@@ -75,6 +79,8 @@ At least one author from each accepted paper must register for the workshop. Ple
 <small>*Title: Multi-task Optimization through Denoising Autoencoding*<small>
 
 14:50 - 15:10   Paper talk 3
+
+<small>*Title: Does Tail Label Help for Large-Scale Multi-Label Learning?*<small>
 
 15:10 - 15:30   Closing
 
