@@ -52,8 +52,6 @@ At least one author from each accepted paper must register for the workshop. Ple
 
 10:20 - 10:40   Invited talk by **Joey Tianyi Zhou**
 
-<small>*Title: DATNet: Dual Adversarial Transfer for Low-resource Named Entity Recognition*<small>
-
 10:40 - 11:00   Invited talk by **Quanming Yao**
 
 <small>*Title: Learning with Heterogeneous Side Information Fusion for Recommender Systems*<small>
